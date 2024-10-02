@@ -6,7 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         CarrotSeller CarrotSeller1 = new CarrotSeller();
         CarrotSeller CarrotSeller2 = new CarrotSeller();
-
+//koment
         CarrotSeller1.setName("Karel");
         CarrotSeller1.setAddress("Praha 6");
         CarrotSeller2.setName("Jirka");
