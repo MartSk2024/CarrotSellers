@@ -8,7 +8,7 @@ public class CarrotSeller {
     private String addressOfSeller;
     private String vehicleRegisterPlate;
     private double vehicleConsumption;
-//koment2
+//koment3
     public String getName() {
         return name;
     }
